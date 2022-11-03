@@ -1,2 +1,2 @@
 # DCGANS-
-implementation of DCGANS using TensorFlow on different  Datasets
+implementation of Deep Convolutional GAN using TensorFlow 
